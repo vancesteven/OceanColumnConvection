@@ -2,7 +2,7 @@ function swEOS = swEOS_chooser(EOStype)
 % swEOS    Seawater Equation of state
 %=========================================================================
 %
-% USAGE:  swEOS = swEOS(EOStype)
+% USAGE:  swEOS = swEOS_chooser(EOStype)
 % DESCRIPTION:
 %    Set the seawater equation of state to be used by the column-convect
 %    model.  Input units for all functions:
